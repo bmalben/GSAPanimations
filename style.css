@@ -15,7 +15,10 @@ h1{
 }
 
 body{
-    background: url(./img/stars-bg.png);
+    background: url(https://c4.wallpaperflare.com/wallpaper/4/562/548/dark-pattern-texture-wallpaper-preview.jpg);
+    /* background-repeat: no-repeat; */
+    background-position: center;
+    /* background-size: cover; */
     color: rgb(184, 182, 182);
     font-family: 'Poppins', sans-serif;
     overflow-x: hidden;
